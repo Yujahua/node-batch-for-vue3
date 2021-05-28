@@ -1,7 +1,7 @@
 {
   "name": "batch-for-vue3",
   "version": "0.9.0",
-  "description": "convert vue2 standard to vue3 composition-api(August)",
+  "description": "convert vue2 standard to vue3",
   "main": "index.js",
   "directories": {
     "test": "test"
